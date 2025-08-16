@@ -1,0 +1,62 @@
+/* Centered Add Blog form container */
+.add-blog-form {
+  max-width: 800px;           /* even wider form container */
+  margin: 50px auto;          /* center horizontally */
+  padding: 40px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  background-color: #f9f9f9;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.15);
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+/* Heading */
+.add-blog-form h2 {
+  margin-bottom: 30px;
+  color: #333;
+  font-size: 2.2rem;
+}
+
+/* Input and textarea - largest comfortable boxes */
+.add-blog-form input,
+.add-blog-form textarea {
+  width: 98%;                 /* almost full container width */
+  max-width: 780px;           /* prevent stretching too far */
+  padding: 16px;
+  margin: 12px auto;
+  display: block;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  font-size: 1.2rem;
+}
+
+/* Make content textarea taller */
+.add-blog-form textarea {
+  min-height: 300px;          /* more space for content */
+}
+
+/* Submit button */
+.add-blog-form button {
+  background-color: #2196F3;
+  color: white;
+  padding: 16px 35px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 25px;
+  font-size: 1.2rem;
+  min-width: 180px;
+}
+
+.add-blog-form button:hover {
+  background-color: #1976d2;
+}
+
+/* Responsive adjustments */
+@media (max-width: 900px) {
+  .add-blog-form input,
+  .add-blog-form textarea {
+    width: 95%;
+  }
+}
