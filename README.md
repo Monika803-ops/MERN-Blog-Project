@@ -222,17 +222,17 @@ Frontend runs on http://localhost:3000
 
 Screenshots 
 
-##This is the Home page##
+##This is the Home page
 
 ![Home Page](images/Home.png)
 
 
-##This is the Add Blog page##
+##This is the Add Blog page
 
 ![Add Blog Page](images/Add_Blog.png "This is the Add Blog page")
 
 
-##This is the Edit page##
+##This is the Edit page
 ![Edit Blog Page](images/Edit_Blog.png)
 
 
