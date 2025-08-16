@@ -221,7 +221,7 @@ Frontend runs on http://localhost:3000
 ---
 
 Screenshots 
-
+![Add Blog Page](images/Add_Blog.png "This is the Add Blog page")
 
 
 
