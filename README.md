@@ -112,7 +112,7 @@ All actions are reflected instantly on the frontend and stored in MongoDB.
 
 #### Home Page
 
-Displays all blog posts with options to edit or delete.
+Displays all blog posts with options to edit and delete.
 
 ![Home Page](images/Home.png)
 
@@ -120,7 +120,7 @@ Displays all blog posts with options to edit or delete.
 
 #### Add Blog Page
 
-Form to create a new blog post with title, content, and author fields.
+Form to create a new blog post with title, content.
 
 ![Add Blog Page](images/Add_Blog.png "Add Blog Page")
 
@@ -128,7 +128,7 @@ Form to create a new blog post with title, content, and author fields.
 
 #### Edit Blog Page
 
-Form to update existing blog posts with pre-filled data.
+Form to update existing blog posts.
 
 ![Edit Blog Page](images/Edit_Blog.png)
 
@@ -143,5 +143,3 @@ Form to update existing blog posts with pre-filled data.
 
 ---
 
-
-Do you want me to do that?
